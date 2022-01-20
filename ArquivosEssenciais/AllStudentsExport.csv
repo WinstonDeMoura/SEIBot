@@ -1,10 +1,10 @@
 Nome;Sobrenome;Nome de Preferência;Endereço 1;Endereço 2;Endereço 3;Endereço 4;Endereço 5;Código de Endereçamento Postal;Celular;Telefone Residencial;Número para Msg Text;E-mail;Sexo;Idade;Ala ou Ramo;Estaca ou Distrito;Casado;Escola;75 % de Frequência
-Daniel;Abreu da Silva;;;;;;;;;;;;M;23;Benfica Ward;Fortaleza Brazil Benfica Stake;S;;no
+Daniel;Abreu da Silva;;;;;;;;;;85989898989;;M;23;Benfica Ward;Fortaleza Brazil Benfica Stake;S;;no
 Jose cleilton de oliveira;Matos;;;;;;;;;;;;M;29;José Walter  1st Ward;Fortaleza Brazil South Stake;S;;no
-Gedean da Silva;Souza;;R. Bela Vista, 69;Planalto Cidade Nova;Maracanaú, Ceará;;;;;(85) 9176-1637;;;M;24;Cidade Nova Ward;Fortaleza Brazil South Stake;S;;no
+Gedean da Silva;Souza;;R. Bela Vista, 69;Planalto Cidade Nova;Maracanaú, Ceará;;;;;(85) 9176-1637;;;M;25;Cidade Nova Ward;Fortaleza Brazil South Stake;S;;no
 Pamela Regina Rocha;Pinheiro;;Rua 91 N°561B;Fortaleza, Ceará;;;;;;;;;F;21;Montenegro Ward;Fortaleza Brazil South Stake;S;;no
 Maria Samara de Oliveira;Lima;;rUA 9 #681 Alto da mangueira;Maracanaú, Ceará;;;;;;;;;F;24;Alto da Mangueira Ward;Maracanaú Brazil Stake;S;;no
-Maria Eduarda;Tiago;;Rua I, 850;Fortaleza, Ceará;;;;;;;;;F;21;José Walter 3rd Ward;Fortaleza Brazil South Stake;S;;no
+Maria Eduarda Azevedo;Tiago;;Rua I, 850;Fortaleza, Ceará;;;;;;;;;F;21;José Walter 3rd Ward;Fortaleza Brazil South Stake;S;;no
 Jefferson Santos Do;Nascimento;;Rua Rodrigues de Andrade, 391, Demócrito Rocha;;Fortaleza/CE, 60440-070 ;;;;991619762;00000000;;jeffersongow@gmail.com;M;31;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;M;CASTELO BRANCO;no
 Anderson Freitas;Lima;;Rua 115-A, 84;Acaracuzinho;Maracanaú/CE, 61900-630 ;;;;085991923916;3467-9328/8731-9697;;freitaslimaanderson@gmail.com;M;30;Canindé Branch;Brazil Fortaleza Mission;M;;no
 Bruna Albuquerque dos Santos;Almeida;;;;;;;;987910151;;;bruna17.11@hotmail.com;F;26;Pantanal Ward;Fortaleza Brazil South Stake;M;;yes
@@ -16,7 +16,7 @@ Danrley Araujo;Santos;;;;;;;;85987777020;85987777020;85987777020;danrley7345@hot
 Larissa Barbosa;Moraes;;Otavio Justa, 69;Parque Araxa;Fortaleza, Ceará, 60450-580 ;;;;;243-6538;85988642633;larissamoraescl@hotmail.com;F;28;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;M;;no
 Thales Raphael Rocha;Ferreira;;Rua Costa Freire, 2452;Parque São José;Fortaleza/CE, 60730-255 ;;;;(085) 98565-2629;3483-1086/8755-1941;;thalesraphael20@gmail.com;M;28;Esperança Ward;Fortaleza Brazil Bom Sucesso Stake;M;César Cals;no
 Débora Mara Moreira;Mota;;Rua 07,  6 - C. Campo dos Ingleses;Maraponga;Fortaleza, Ceará 60000-000;;;;;8841-9761 8507-4445;;;F;24;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;yes
-Tailane Carla Rodrigues;Braga;;;;;;;;85986972288;85986972288;85986972288;;F;24;Benfica Ward;Fortaleza Brazil Benfica Stake;M;;yes
+Tailane Carla Rodrigues;Braga;;;;;;;;85986972288;85986972288;85986972288;;F;25;Benfica Ward;Fortaleza Brazil Benfica Stake;M;;yes
 Raquel de Souza;Bezerra;;Rua Gothardo Moraes, 101, ap 203;Bairro de Lourdes;Fortaleza, Ceará;;;;85 992042429;;85 992042429;raquelsbsud@gmail.com;F;18;Dunas Ward;Fortaleza Brazil Dunas Stake;S;;yes
 Marcos Olavio Lima;Praciano;;Rua Eurico Medina, 88 - Henrique Jorge;;Fortaleza, Ceará 60525-460;;;;85999839885;85999839885;85999839885;olaviofeliz@gmail.com;M;23;Henrique Jorge Ward;Fortaleza Brazil Montese Stake;S;;no
 Lamoni Marvin;Vieira de Queiroz;Lamoni Maruin;Rua Alm. Rubim, 1500;Montese;60421-105 Fortaleza/CE;;;;8810-8070;;;lamoni.academic@gmail.com;M;22;José Walter  1st Ward;Fortaleza Brazil South Stake;S;;no
@@ -24,7 +24,7 @@ Pablo Augusto da;Silva Pimentel;Pablo Augusto da;R. Luciano Queiroz 477;Jockey C
 Dalete Cordulina;Furtado;;Rua: Desembargador Proxedes 267, casa 18;Fortaleza/CE;;;;;85988881363;85988881363;85988881363;dalete_dcl@hotmail.com;F;23;José Walter 2nd Ward;Fortaleza Brazil South Stake;S;;no
 Lorenzo Cordulino;Furtado;;Av João Pessoa, 4693, BL 11, AP 402;Damas;Fortaleza/CE;;;;85997457589;85997457589;85997457589;lorenzo_lcf@hotmail.com;M;21;José Walter 2nd Ward;Fortaleza Brazil South Stake;S;;no
 Rafael Du-Bois;Rodrigues;;Rua Polônia , 303  Maraponga;Fortaleza, Ceará 60710-500;;;;;85992549390;85992549390;85992549390;;M;20;Maraponga Ward;Fortaleza Brazil Montese Stake;M;;no
-Lucas Felix;Mota;Lucas Felix ;Rua Leonardo Mota, 2815, AP 101;Dionísio Torres;Fortaleza/CE, 60170-041 ;;;;;3272-2386/9953-8547;;lucasfm94@hotmail.com;M;27;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;M;;no
+Lucas Felix;Mota;Lucas Felix ;Rua Leonardo Mota, 2815, AP 101;Dionísio Torres;Fortaleza/CE, 60170-041 ;;;;;3272-2386/9953-8547;;lucasfm94@hotmail.com;M;27;Parque das Nações Ward;Fortaleza Brazil Montese Stake;M;;no
 Pétala Candida Peres;Brito;;Rua Campos Novos 17 Damas;Fortaleza, Ceará;;;;;;;85987784511;britopetala44@gmail.com;F;21;Jardim América Ward;Fortaleza Brazil Benfica Stake;S;;no
 Yalis Marques Silva de;Oliveira;;Rua Estado do Rio, 50, AP 401-B;Bela Vista;Fortaleza/CE, 60441-150 ;;;;(85)987036376;;(85)987036376;yalismarques@hotmail.com;F;28;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;M;;yes
 Júlia Emilly da Silva;Falcão;;Rua: Rui Barbosa, 437;Bairro Aterro;Aracati, Ceará 62800-000;;;;88 9 96495080;88 9 96495080;;;F;22;Aracati Ward;Pacajus Brazil Stake;S;;yes
@@ -32,7 +32,7 @@ Rafael Bessa Dos;Santos;;Rua G, 751;Pque Montenegro II;Fortaleza/CE;;;;98424-660
 Diana Paula Severino de;Sousa;;R. Passeio da Algaroba, Blo 33, Apt. 02;Fortaleza, Ceará;;;;;986514675;986514675;986514675;dianapssousa97@gmail.com;F;24;Parque das Nações Ward;Fortaleza Brazil Montese Stake;S;;yes
 Vitor Andrade França De;Mello;Vitor;Rua André Chaves, 463;Jardim América;Fortaleza/CE;;;;85985314832;85985314832;85985314832;vitor.andrade70@hotmail.com.br;M;22;Benfica Ward;Fortaleza Brazil Benfica Stake;S;;yes
 Nilber Moreira;Mota;Nilber;Rua 07,  6 - C. Campo dos Ingleses;Maraponga;Fortaleza, Ceará 60000-000;;;;85989493607;;85989493607;nilber16@outlook.com;M;21;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;yes
-Karla Gabrielly Carvalho;Siqueira;;Rua Maria Clara, 1794;Jardim Guanabara;Fortaleza, Ceará 60346251;;;;;(85) 30994417;;;F;18;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;S;;yes
+Karla Gabrielly Carvalho;Siqueira;;Rua Maria Clara, 1794;Jardim Guanabara;Fortaleza, Ceará 60346251;;;;;(85) 30994417;;;F;19;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;S;;yes
 Rebeca Soares Dias;Cavalcante;;Rua Sergipe, 1013 A, Demócrito Rocha;;Fortaleza- CE;;;;085991830526;;085991830526;rebecasoares575@gmail.com;F;24;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;M;;yes
 Reginaldo de Paula;Sousa;;Rua Morada Nova, 109;Cidade Nova;Maracanaú, Ceará;;;;'85987026111;'85987026111;'85987026111;;M;26;Cidade Nova Ward;Fortaleza Brazil South Stake;M;;yes
 Kelson Pereira;Barbosa;;Rua Cajamar nº 134 Bairro: Novo Mondubim;Fortaleza, Ceará 60764325;;;;;85988833870;85988833870;85988833870;kelsonpereira07@hotmail.com;M;19;Sete de Setembro Ward;Fortaleza Brazil Montese Stake;S;;no
@@ -42,7 +42,7 @@ Lucas Alencar;Souza;;R. Bela Vista, 69;Planalto Cidade Nova;Maracanaú, Ceará;;;;
 Deborah Blenda Pontes Da Costa;Rodrigues Du-Bois;;Rua Santa Tereza, 751;Cidade Nova;Maracanaú, Ceará 61900000;;;;85992031351;85992031351;85992031351;;F;20;Maraponga Ward;Fortaleza Brazil Montese Stake;M;;no
 Juan Carlos Morais;Brito;;Rua 2, casa 191;Maraponga;Fortaleza, Ceará;;;;85987659169;85987659169;85987659169;eldermoraisbrito4@gmail.com;M;26;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;yes
 Manoela Bento da;Silva;;;;;;;;9-8851-7371;;;manuelabentosilva@outlook.com;F;29;José Walter 3rd Ward;Fortaleza Brazil South Stake;M;;yes
-Letícia Cavalcanti Silva;Martins;;R. Almirante Barroso, 1403;Rosa Cruz;Campina Grande Pb, Paraíba 58105-341;;;;83996331850;83996331850;83996331850;;F;21;Jardim América Ward;Fortaleza Brazil Benfica Stake;M;;yes
+Letícia Cavalcanti Silva;Martins;;R. Almirante Barroso, 1403;Rosa Cruz;Campina Grande Pb, Paraíba 58105-341;;;;83996331850;83996331850;83996331850;;F;21;Cidade dos Funcionários Ward;Fortaleza Brazil East Stake;M;;yes
 Hendy Victoria Soares de;Sousa;;R. Luciano Queiros, 371-A;Jockey Club;Fortaleza Ce, Ceará 60520-620;;;;85989184419;85 3290-8590;;;F;22;Henrique Jorge Ward;Fortaleza Brazil Montese Stake;S;;no
 Wanna Paula Sousa;Pereira;;Rua Teofilo R. S Bevilaqua. 430;Maracanaú, Ceará;;;;;8587-0276;;;wanna.paula.122@hotmail.com;F;21;Alto da Mangueira Ward;Maracanaú Brazil Stake;S;;no
 Germano Bruno Bezerra;Monteiro;;Rua São Francisco de Assis #911;Fortaleza, Ceará;;;;;8965-2927;3473-3798;;gbmonteiro92@gmail.com;M;29;José Walter 4th Ward;Fortaleza Brazil South Stake;S;;yes
@@ -86,7 +86,7 @@ Francisca Marciana da;Conceição;;Rua Luíza Nobre, Nº 160, Cidade Nova;Maracanaú,
 Isac Carlos Araujo;Barbosa;;Francisca Cleotilde 110;Rodolfo Teófilo;Fortaleza, Ceará;;;;85989362698;85989362698;85989362698;aisaccarlos@gmail.com;M;20;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;S;;no
 Laura Tabata Xavier;Pimentel;;Rua G, 407 Lote Expedicionarios 2, Dendê;Fortaleza, Ceará;Fortaleza, Ceará;;;;85985898332;8534937240;85985898332;lauratabatapimentel@gmail.com;F;20;Parque das Nações Ward;Fortaleza Brazil Montese Stake;S;;yes
 Rafael Ferreira de Sousa;Roza;;Rua Joaquim Moreira Nº 173;Parangaba;Fortaleza, Ceará;;;;;;;;M;19;Sete de Setembro Ward;Fortaleza Brazil Montese Stake;S;;yes
-Antônio Igor Cavalcante;Fontenele;;R João I, casa 10 Vila Valdilene-Marapon;Fortaleza, Ceará;;;;;85997119759;85997119759;85997119759;;M;22;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;no
+Antônio Igor Cavalcante;Fontenele;;R João I, casa 10 Vila Valdilene-Marapon;Fortaleza, Ceará;;;;;85997119759;85997119759;85997119759;;M;23;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;no
 José Kassio Pereira de;Oliveira;;Monsenhor Furtado, 1579;Rodolfo Teofilo;Fortaleza, Ceará 60430-350;;;;;;;;M;17;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;S;;no
 Luiz Felipe Gomes;Lima;;Travessa São Caetano, 81;Fortaleza, Ceará;;;;;;;;;M;22;Rodolfo Teófilo Ward;Fortaleza Brazil Benfica Stake;S;;no
 Naiele dos Anjos;Milhomens;;Rua Gaspar Lemos 300f;Bela Vista;Fortaleza, Ceará;;;;;;;;F;22;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;S;;yes
@@ -116,7 +116,7 @@ Juan Pablo de Sousa;Sales;;Rua Ex. Combatente N 117 Planalto Pici;Fortaleza, Cea
 Laricia Cristine Paz;Tomas;;R. Zuleica Pontes, 1052;Ipalmirim;Fortaleza, Ceará 60760-420;;;;;;;;F;19;José Walter 3rd Ward;Fortaleza Brazil South Stake;S;;no
 Christopher Moraes;Nogueira;;R Mimosa, 236;;Montese Fortaleza-CE 60410-230;;;;085992512847;;0855992512847;christopher.moraes003@gmail.com;M;21;Gomes de Matos Ward;Fortaleza Brazil Benfica Stake;S;;no
 Wellington Nunes;Ribeiro;;R. Marcelo Costa, 78;Planalto Ayrton Senna;Fortaleza, Ceará 60766-190;;;;989475416;989475416;989475416;wellingtonnunesr20@gmail.com;M;18;Planalto Airton Sena Ward;Fortaleza Brazil South Stake;S;;yes
-Luiz Vinicius Silva;Souza;;Avenida 24 de Maio, 102;Cidade Nova;Maracanaú, Ceará;;;;;;;;M;19;Cidade Nova Ward;Fortaleza Brazil South Stake;S;;no
+Luiz Vinicius Silva;Souza;;Avenida 24 de Maio, 102;Cidade Nova;Maracanaú, Ceará;;;;;;;;M;20;Cidade Nova Ward;Fortaleza Brazil South Stake;S;;no
 Natalice da Cruz;Alves;;rua -8 n°600A;Arvorendo ;Fortaleza, Ceará;;;;85998571546;;;natalicealves88583923@gmail.com;F;26;José Walter  1st Ward;Fortaleza Brazil South Stake;M;;yes
 Dnajara Nataniel Oliveira;Batista;;Rua Goias n, 843;Fortaleza, Ceará;;;;;;;;;M;19;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;S;;no
 Elly Anne Victoria Santos da;Silva;;Rua Rafael Melo #30;Fortaleza, Ceará;;;;;85989580327;;;ellyannevictoria@gmail.com;F;19;José Walter  1st Ward;Fortaleza Brazil South Stake;S;;no
@@ -139,7 +139,7 @@ Fernanda Freire;Maia;;Av. João Pessoa, 6943;Fortaleza/CE;;;;;9-9741-9962;;;ferna
 Helio Costa;Macedo;;Rua Álvaro Fernandes, 467;Montese;Fortaleza/CE, 60420-570 ;;;;85988793319;85988793319;85988793319;;M;28;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;M;João Matos;yes
 Amanda Jeniffer Sena;Martins;Jeniffer  Martins;Rua Mauro freire 300;bloco b apto 103;Fortaleza;;;;+5585988001677;+5585988001677;+5585988001677;jeniffermartins97@gmail.com;F;24;Cidade dos Funcionários Ward;Fortaleza Brazil East Stake;S;;yes
 Amon Jeffrey Sena;Martins;Amon;R. Alan Kardec ,Montese;697, Casa 301;Fortaleza;;;;8585460364;;8585460364;amonmartins7@gmail.com;M;22;Jardim América Ward;Fortaleza Brazil Benfica Stake;M;;yes
-Natiely Alcântara;Pinheiro;;Rua Bento Albuquerque 3300 Manoel Dias Branco ;;Fortaleza-CE;;;;981062721;;;natiely.apinheiro@gmail.com;F;23;Eusebio Ward;Fortaleza Brazil East Stake;M;;yes
+Natiely Alcântara;Pinheiro;;Av. Eusebio De Queiroz 5684;;Fortaleza-CE;;;;981062721;;;natiely.apinheiro@gmail.com;F;23;Eusebio Ward;Fortaleza Brazil East Stake;M;;yes
 Maikon Douglas Gomes da;Silva;;Travessa Luis Oliveira 23;Montese;Fortaleza, Ceará 60421-830;;;;85984332955;85984332955;85984332955;douglasmaikon@gmail.com;M;27;Gomes de Matos Ward;Fortaleza Brazil Benfica Stake;M;;yes
 Erica Bianca Lourenço;Lima;;R. Santa Adelaide 615 A;Jardim Bandeirantes;Maracanaú, Ceará;;;;85989457352;85989457352;85989457352;erica.bianca.lima@gmail.com;F;29;Pajuçara Ward;Maracanaú Brazil North Stake;S;;yes
 Antonio Cayley dos Santos;Ferreira;;Rua 307, 33 B ALT;Cj. São Cristóvão;Fortaleza, Ceará ;;;;85987989394;32690035;85987989394;cayleyferreira@gmail.com;M;25;Fortaleza Ward;Fortaleza Brazil Messejana Stake;S;;no
@@ -178,7 +178,7 @@ Nascimento da Silva Lima;Jose Matheus;Jose Matheus;Rua Noel Rosa, 235;;Fortaleza
 Cândida Ennya dos Santos da;Silveira;Ennya silveira;Rua 10,casa 170;Novo Maracanaú;Maracanaú, Ceará;;;;85 985374380;85 987543313;85 985374380;ennya.silveira@gmail.com;F;21;José Walter  1st Ward;Fortaleza Brazil South Stake;S;;yes
 Patricia Araujo da Costa;dos Santos;;Rua Porto Alegre, 1779;Fortaleza, Ceará;;;;;;;;;F;27;Cidade Nova Ward;Fortaleza Brazil South Stake;M;;no
 Raquel Bandeira Maia de;Maria;;Rua Abelardo Marinho 344  Vila União;;Fortaleza, Ceará;;;;85 996170066;;;raquelbandeiramaia@gmail.com;F;21;Expedicionários Ward;Fortaleza Brazil Stake;S;;yes
-Layne Moraes de;Carvalho;;Rua Rio Grande Do norte, 1215 Altos ;;Fortaleza, Ceará;;;;84160429;;84160429;moraeslayne170@gmail.com;F;19;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;S;;yes
+Layne Moraes de;Carvalho;;Rua Rio Grande Do norte, 1215 Altos ;;Fortaleza, Ceará;;;;84160429;;84160429;moraeslayne170@gmail.com;F;20;Demócrito Rocha Ward;Fortaleza Brazil Benfica Stake;S;;yes
 Vitória Gabriella Lopes;Gomes;;Rua Professor Heribaldo Costa 611;;Fortaleza, Ceará ;;;;'85987542506;'85987542506;'85987542506;vitoriagabriellacdmg1@gmail.com;F;18;Henrique Jorge Ward;Fortaleza Brazil Montese Stake;S;;no
 Melissa Saldanha;Pereira;;Rodrigo Codes Sandoval 250 BL 03 AP 705;Fortaleza, Ceará 60711455;;;;;'991832540;991832540;'991832540;melissaspereira714@gmail.com;F;18;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;yes
 Adrielly Macambira de;Andrade;;Rua João1º, 408 - Maraponga;;Fortaleza,Ceará;;;;;;;;F;23;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;yes
@@ -187,5 +187,5 @@ Kamila Oliveira Dos;Santos;;Rua suiça 120;bloco A9 ;Fortaleza, Ceará;;;;08598831
 Alexia Laryssa Vieira;Unias;;Rua Q,casa 312b;Parque Montenegro 2;Fortaleza, Ceará 60000-00;;;;85992190976;;;alexialaryssa.22@gmail.com;F;18;José Walter 3rd Ward;Fortaleza Brazil South Stake;S;;no
 José Lucas da Silva;Paula;José lucas;Trav José Augusto 58 Lagoa Opaia;Fortaleza, Ceará 60420-242;;;;;85981151218;;85981151218;lucasdepaulla5@gmail.com;M;21;Expedicionários Ward;Fortaleza Brazil Stake;S;;yes
 Marcos Vinicius de;Sousa;;Rua 52 casa 194 ;Jereissati 1;Maracanaú, Ceará;;;;;9215-7245;;;M;22;Jereissati  1st Ward;Maracanaú Brazil Stake;S;;no
-Renata Elen da Silva;Couto;;R Benjamin Franklin 571;Serrinha;Fortaleza, Ceará;;;;85981220711;85;85981220711;renataelencoutooo@gmail.com;F;24;Parque das Nações Ward;Fortaleza Brazil Montese Stake;M;;yes
+Renata Elen da Silva;Couto;;R Benjamin Franklin 571;Serrinha;Fortaleza, Ceará;;;;85981220711;85981220711;85981220711;renataelencoutooo@gmail.com;F;24;Parque das Nações Ward;Fortaleza Brazil Montese Stake;M;;yes
 Natacha Hellen Queiros Da;Silva;Natacha Hellen Queiroz Da Silva;Travessa Espinosa;casa;Fortaleza;;;;85992925143;;85992925143;natachaqueiroz49@gmail.com;F;20;Maraponga Ward;Fortaleza Brazil Montese Stake;S;;no
